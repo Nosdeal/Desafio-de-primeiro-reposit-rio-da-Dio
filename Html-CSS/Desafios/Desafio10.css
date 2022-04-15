@@ -1,0 +1,54 @@
+@charset "utf-8";
+header{
+    text-align: center;
+    background-color: green;
+    color: white;
+    padding: 10px;
+}
+nav{
+    text-align: left;
+}
+nav > a{
+    color: white;
+}
+body{
+    background-color: #c5ebd6;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    margin: 0px;
+}
+main{
+    background-color: white;
+    padding: 10px;
+    width: 800px;
+}
+.History{
+    color: green;
+    font-size: 32px;
+}
+.version{
+    background-color: rgba(133, 250, 38, 0.384);
+    color: green;
+}
+#saibamais{
+    background-color: green;
+    padding: 0px;
+    margin: 0px;
+    border-radius: 5px;
+}
+.enumeração{
+    background-color: rgba(189, 252, 96, 0.747);
+    padding: 0px;
+    margin: 0px;
+}
+
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 5px;
+    margin: 0px;
+}
+footer > p{
+    margin: 0px ;
+}

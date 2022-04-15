@@ -1,0 +1,29 @@
+@charset "utf-8";
+
+body {
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1#principal{
+    font: bolder 32px arial , helvetica, sans-serif;
+    text-align: center;
+    color: aquamarine; 
+    background-color: blueviolet;
+}
+h1{
+    color: blue;
+}
+h2{
+    color: darkblue;
+    font: normal 24px arial, Helvetica, 
+    sans-serif; 
+}
+.Básico{
+    background-color:darkslateblue;
+}
+.Intermediário{
+    background-color: black;
+}
+.Avançado{
+    background-color: yellow;
+}
